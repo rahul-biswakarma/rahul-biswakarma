@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi 👋![GoodbyeThankYouGIF](https://user-images.githubusercontent.com/62774412/162629194-0852e16d-4a1a-477f-83d4-3538a811be50.gif), I'm Rahul
+
 <!--
 **rahul-biswakarma/rahul-biswakarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Rahul's GitHub stats](https://github-readme-stats-ochre-sigma.vercel.app/api?username=rahul-biswakarma&count_private=true&show_icons=true&theme=dark)](https://github.com/rahul-biswakarma/github-readme-stats)
+<img align="left" width="47%"  src="https://github-readme-stats-ochre-sigma.vercel.app/api?username=rahul-biswakarma&count_private=true&show_icons=true&theme=dark" />
 
-[![Top Langs](https://github-readme-stats-ochre-sigma.vercel.app/api/top-langs/?username=rahul-biswakarma&layout=compact&theme=dark)](https://github.com/rahul-biswakarma/github-readme-stats)
+<img align="left" width="47%"  src="https://github-readme-stats-ochre-sigma.vercel.app/api/top-langs/?username=rahul-biswakarma&layout=compact&theme=dark" />
