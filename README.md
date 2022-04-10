@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hi 👋![GoodbyeThankYouGIF](https://user-images.githubusercontent.com/62774412/162629194-0852e16d-4a1a-477f-83d4-3538a811be50.gif), I'm Rahul
+#Hi there, I'm Rahul👋
 
 <!--
 **rahul-biswakarma/rahul-biswakarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
