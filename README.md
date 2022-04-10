@@ -1,19 +1,18 @@
-# Hi there, I'm Rahul👋
+<div>
+<p align="center"><a href="https://rahul-biswakarma.github.io"><img width="100%" src="./assets/readme-header-image.png" /></a></p>
+</div>
 
-<!--
-**rahul-biswakarma/rahul-biswakarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>A self-taught fullstack developer from India</p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [AlgoSpace](https://github.com/rahul-biswakarma/algo-visualizer)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Backend Development**
+
+- 📫 How to reach me: **rahul.id39@gmail.com**
+
+- ⚡ Fun fact: **I'm stuck in gold at Valorant 😞**
+
+<br />
 
 
 <div>
@@ -27,12 +26,24 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
 
+<br />
+<br />
 
-<div>
-<img width="47%"  src="https://github-readme-stats-ochre-sigma.vercel.app/api?username=rahul-biswakarma&count_private=true&show_icons=true&theme=dark" />
-<img width="47%"  src="https://github-readme-stats-ochre-sigma.vercel.app/api/top-langs/?username=rahul-biswakarma&layout=compact&theme=dark" />
+# Streak ⚡
+<p><img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-biswakarma&theme=dark" alt="rahul-biswakarma" /></p>
+
+
+<br />
+<br />
+<br />
+
+# GitHub Stats 📶
+
+
+ <div>
+<img align="center" width="47%"  src="https://github-readme-stats-ochre-sigma.vercel.app/api?username=rahul-biswakarma&count_private=true&show_icons=true&theme=dark" />
+<img align="center" width="47%"  src="https://github-readme-stats-ochre-sigma.vercel.app/api/top-langs/?username=rahul-biswakarma&layout=compact&theme=dark" />
 </div>
-
 
 
 
