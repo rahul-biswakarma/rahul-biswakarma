@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Rahul's GitHub stats](https://github-readme-stats-ochre-sigma.vercel.app/api?username=rahul-biswakarma&count_private=true&show_icons=true&theme=dark)](https://github.com/rahul-biswakarma/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-ochre-sigma.vercel.app/api/top-langs/?username=rahul-biswakarma)](https://github.com/rahul-biswakarma/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ochre-sigma.vercel.app/api/top-langs/?username=rahul-biswakarma&layout=compact&theme=dark)](https://github.com/rahul-biswakarma/github-readme-stats)
