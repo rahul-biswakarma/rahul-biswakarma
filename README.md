@@ -30,7 +30,7 @@
 <br />
 
 # Streak ⚡
-<p><img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-biswakarma&theme=dark" alt="rahul-biswakarma" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-biswakarma&theme=dark" alt="rahul-biswakarma" /></p>
 
 
 <br />
