@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 <img align="left" width="47%"  src="https://github-readme-stats-ochre-sigma.vercel.app/api?username=rahul-biswakarma&count_private=true&show_icons=true&theme=dark" />
 
 <img align="left" width="47%"  src="https://github-readme-stats-ochre-sigma.vercel.app/api/top-langs/?username=rahul-biswakarma&layout=compact&theme=dark" />
+
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
