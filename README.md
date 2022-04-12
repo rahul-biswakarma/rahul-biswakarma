@@ -33,13 +33,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-biswakarma&theme=dark" alt="rahul-biswakarma" /></p>
 
 
-<br />
-<br />
-
-# Weekly development breakdown 📊
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 
 <br />
 <br />
@@ -50,5 +43,20 @@
 <img height="180em"  src="https://github-readme-stats-ochre-sigma.vercel.app/api/top-langs/?username=rahul-biswakarma&layout=compact&theme=dark" />
 </div>
 
+
+<br />
+<br />
+
+# Weekly development breakdown 📊
+<div align="center">
+<img align="left" width="400em" src="https://wakatime.com/share/@1d1889a0-384f-4e94-ba82-07fd4d971594/5857f3b1-cb52-4907-bf20-cb40baf93ef4.svg" />
+<img width="400em" src="https://wakatime.com/share/@1d1889a0-384f-4e94-ba82-07fd4d971594/b894eb6f-44e3-4839-b4ab-1dd419deaccb.svg" />
+</div>
+
+
+<br />
+<br />
+
+***
 
 
