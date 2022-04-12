@@ -29,12 +29,6 @@
 <br />
 <br />
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<br />
-<br />
-
 # Streak ⚡
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-biswakarma&theme=dark" alt="rahul-biswakarma" /></p>
 
