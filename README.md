@@ -49,7 +49,7 @@
 
 # Weekly development breakdown 📊
 <div align="center">
-<img align="left" width="400em" src="https://wakatime.com/share/@1d1889a0-384f-4e94-ba82-07fd4d971594/5857f3b1-cb52-4907-bf20-cb40baf93ef4.svg" />
+<img align="left" width="400em" src="https://wakatime.com/share/@1d1889a0-384f-4e94-ba82-07fd4d971594/5cda53e3-0bde-42f7-b785-5191b8914595.svg" />
 <img width="400em" src="https://wakatime.com/share/@1d1889a0-384f-4e94-ba82-07fd4d971594/b894eb6f-44e3-4839-b4ab-1dd419deaccb.svg" />
 </div>
 
