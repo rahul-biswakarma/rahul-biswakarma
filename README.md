@@ -35,12 +35,17 @@
 
 <br />
 <br />
+
+# Weekly development breakdown 📊
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+<br />
 <br />
 
 # GitHub Stats 📶
-
-
- <div>
+<div>
 <img align="center" width="47%"  src="https://github-readme-stats-ochre-sigma.vercel.app/api?username=rahul-biswakarma&count_private=true&show_icons=true&theme=dark" />
 <img align="center" width="47%"  src="https://github-readme-stats-ochre-sigma.vercel.app/api/top-langs/?username=rahul-biswakarma&layout=compact&theme=dark" />
 </div>
