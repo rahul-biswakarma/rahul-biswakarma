@@ -45,9 +45,8 @@
 <br />
 
 # GitHub Stats 📶
-<div align="center">
-<div width="47%">
-<img height="180em" src="https://github-readme-stats-ochre-sigma.vercel.app/api?username=rahul-biswakarma&count_private=true&show_icons=true&theme=dark" /></div>
+<div align="left">
+<img height="180em" src="https://github-readme-stats-ochre-sigma.vercel.app/api?username=rahul-biswakarma&count_private=true&show_icons=true&theme=dark" />
 <img height="180em"  src="https://github-readme-stats-ochre-sigma.vercel.app/api/top-langs/?username=rahul-biswakarma&layout=compact&theme=dark" />
 </div>
 
