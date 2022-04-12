@@ -45,11 +45,11 @@
 <br />
 
 # GitHub Stats 📶
-<div>
-<img align="center" width="47%"  src="https://github-readme-stats-ochre-sigma.vercel.app/api?username=rahul-biswakarma&count_private=true&show_icons=true&theme=dark" />
-<img align="center" width="47%"  src="https://github-readme-stats-ochre-sigma.vercel.app/api/top-langs/?username=rahul-biswakarma&layout=compact&theme=dark" />
+<div align="center">
+<div width="47%">
+<img height="180em" src="https://github-readme-stats-ochre-sigma.vercel.app/api?username=rahul-biswakarma&count_private=true&show_icons=true&theme=dark" /></div>
+<img height="180em"  src="https://github-readme-stats-ochre-sigma.vercel.app/api/top-langs/?username=rahul-biswakarma&layout=compact&theme=dark" />
 </div>
-
 
 
 
