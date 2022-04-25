@@ -47,7 +47,7 @@
 <br />
 <br />
 
-# Weekly development breakdown 📊
+<!-- # Weekly development breakdown 📊
 <div align="center">
 <img align="left" width="400em" src="https://wakatime.com/share/@1d1889a0-384f-4e94-ba82-07fd4d971594/adc2f249-a573-4b94-8ab4-1f3fe719eec8.svg" />
 <img width="400em" src="https://wakatime.com/share/@1d1889a0-384f-4e94-ba82-07fd4d971594/b894eb6f-44e3-4839-b4ab-1dd419deaccb.svg" />
@@ -56,7 +56,7 @@
 
 
 <br />
-<br />
+<br /> -->
 
 ***
 
