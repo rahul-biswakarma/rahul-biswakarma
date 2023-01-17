@@ -57,7 +57,7 @@
 <br />
 <br /> -->
 
-![](https://komarev.com/ghpvc/?username=rahul-biswakarma)
+![](https://komarev.com/ghpvc/?username=rahul-biswakarma&style=for-the-badge&label=)
 
 
 
