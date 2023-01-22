@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **rahul.id39@gmail.com**
 
-- ⚡ Fun fact: **I'm stuck in Platinum in Valorant 😞**
+- ⚡ Fun fact: **I'm stuck in Diamond in Valorant 😞**
 
 <br />
 
