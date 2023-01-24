@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [AlgoSpace](https://github.com/rahul-biswakarma/algo-visualizer)
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Frontend Development**
 
 - 📫 How to reach me: **rahul.id39@gmail.com**
 
