@@ -31,18 +31,6 @@
 # Streak ⚡
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-biswakarma&theme=dark" alt="rahul-biswakarma" /></p>
 
-
-
-<br />
-<br />
-
-# GitHub Stats 📶
-<div align="left">
-<img height="180em" src="https://github-readme-stats-ochre-sigma.vercel.app/api?username=rahul-biswakarma&count_private=true&show_icons=true&theme=dark" />
-<img height="180em"  src="https://github-readme-stats-ochre-sigma.vercel.app/api/top-langs/?username=rahul-biswakarma&layout=compact&theme=dark" />
-</div>
-
-
 <br />
 <br />
 
