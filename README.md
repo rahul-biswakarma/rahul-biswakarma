@@ -3,7 +3,7 @@
   <a href="https://rahul-biswakarma.github.io" target="_blank">
     <img width="100%" src="./assets/readme-header-image.png" alt="Header" />
   </a>
-  <p><i>A fullstack developer and UX engineer crafting devtools, visual platforms, and AI-native apps 🚀</i></p>
+  <p><i>Engineer @ DevRev | UX meets AI — building Gen UI tools like Feno & Echo that design, code, and talk back 🤖✨</i></p>
 </div>
 
 ---
